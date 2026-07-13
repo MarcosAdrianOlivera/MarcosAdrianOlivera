@@ -20,7 +20,7 @@ Este repositorio aloja mi portfolio profesional:
 
 Profesional IT con experiencia en la administración, configuración y seguridad de plataformas empresariales complejas. Especializado en la gestión de entornos productivos y no productivos, migraciones de gran escala, y en traducir necesidades técnicas en soluciones estables y seguras.
 
-- 🔧 Administración de plataformas ERP, migraciones y *system copy*
+- 🔧 Administración de plataformas ERP, SAP ECC, S/4HANA
 - 🔐 Seguridad, gestión de roles y autorizaciones
 - 🖥️ Entornos Linux / Unix / Windows
 - 🗄️ Bases de datos: HANA, SQL Server, MySQL
