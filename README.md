@@ -33,7 +33,7 @@ Profesional IT con experiencia en la administración, configuración y seguridad
 | Infraestructura | Linux, Unix, Windows Server |
 | Bases de datos | HANA, SQL Server, MySQL |
 | Lenguajes | Python, SQL, VB.NET / C#, Java, JavaScript |
-| Herramientas | SAP ECC, S/4HANA, Excel, Jira, Trello |
+| Herramientas | SAP ECC, S/4HANA, BTP, RISE, Excel, Jira, Trello |
 | Metodologías | Ágiles (Scrum/Kanban) |
 
 ## 📬 Contacto
