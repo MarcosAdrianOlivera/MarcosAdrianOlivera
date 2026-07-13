@@ -14,7 +14,7 @@
 
 Este repositorio aloja mi portfolio profesional:
 
-**🔗 [marcosadrianolivera.github.io/porfolio-marcos](https://marcosadrianolivera.github.io/porfolio-marcos/)**
+**🔗 [marcosadrianolivera.github.io/porfolio-marcos](https://github.com/MarcosAdrianOlivera/porfolio-marcos.git)**
 
 ## 🧭 Perfil profesional
 
